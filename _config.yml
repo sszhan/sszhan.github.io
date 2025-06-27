@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Sion Zhan"
+  pronouns         : "He/Him" 
+  bio              : "One year at UC Davis as a statistics major and now at Boston University pursuing statistics and computer science"
+  location         : "Boston, MA"
+  employer         : "Boston University"
+  uri              : "https://github.com/sszhan"
+  email            : "sszhan24@gmail.com" 
 
   # Academic websites
   academia         : # URL
